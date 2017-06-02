@@ -1,0 +1,1 @@
+magick -delay 100 -loop 0 @pngFiles.txt -alpha off output.gif
